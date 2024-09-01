@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RehnumaAfreen-prog
 - 👀 I’m interested in machine learning, data science, web development and open-source projects.
-- 🌱 I’m learning advanced Python techniques, web development processes, machine learning algorithms, and data visualization.
-- 💞️ I’m looking to collaborate on interesting Python projects, especially in data analysis and web development.
+- 🌱 I’m learning advanced Programming techniques, web development processes, machine learning algorithms, and data visualization.
+- 💞️ I want to collaborate on interesting Python projects, especially in data analysis and web development.
 - 📫 How to reach me: You can reach me via email at rehnumaazadkhan@gmail.com or connect with me on LinkedIn - www.linkedin.com/in/rehnuma-afreen.
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I’m an avid reader and book collector, drawing inspiration for my art from the stories I explore. I also love organizing and planning, whether it’s for my creative projects or daily life.
